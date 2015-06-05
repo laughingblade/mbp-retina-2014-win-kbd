@@ -10,4 +10,5 @@ So here's my own update to Nick's mappings.
 Simply run the .exe, or you can make changes yourself from the included source fle and regenerate the project.
 
 € is on Ctrl-Shift-2, 
-pound/hash # is on Ctrl-Shift-3
+pound/hash # is on Ctrl-Shift-3.
+
